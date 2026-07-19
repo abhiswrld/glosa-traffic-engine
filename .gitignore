@@ -1,4 +1,5 @@
 venv/
-data/
-*.csv
 .ipynb_checkpoints/
+.DS_Store
+data/vehicles.rou.xml
+data/routes.rou.xml

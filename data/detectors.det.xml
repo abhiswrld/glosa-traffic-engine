@@ -1,0 +1,37 @@
+<detectors>
+    <detectorDefinition id="400084" lane="617235612_0" pos="10"/>
+    <detectorDefinition id="400097" lane="95264953_0" pos="10"/>
+    <detectorDefinition id="400185" lane="1011949889_0" pos="10"/>
+    <detectorDefinition id="400209" lane="848501101_0" pos="10"/>
+    <detectorDefinition id="400429" lane="850097346_0" pos="10"/>
+    <detectorDefinition id="400499" lane="850098170_0" pos="10"/>
+    <detectorDefinition id="400507" lane="1011949889_0" pos="10"/>
+    <detectorDefinition id="400560" lane="617284141_0" pos="10"/>
+    <detectorDefinition id="400648" lane="867262165#0_0" pos="10"/>
+    <detectorDefinition id="400673" lane="617235612_0" pos="10"/>
+    <detectorDefinition id="400677" lane="848488831_0" pos="10"/>
+    <detectorDefinition id="400726" lane="27828946_0" pos="10"/>
+    <detectorDefinition id="400807" lane="124952159_0" pos="10"/>
+    <detectorDefinition id="400823" lane="736379744#0_0" pos="10"/>
+    <detectorDefinition id="400828" lane="867262165#0_0" pos="10"/>
+    <detectorDefinition id="400952" lane="95264953_0" pos="10"/>
+    <detectorDefinition id="404640" lane="158623068_0" pos="10"/>
+    <detectorDefinition id="407321" lane="25029707_0" pos="10"/>
+    <detectorDefinition id="407331" lane="951949868_0" pos="10"/>
+    <detectorDefinition id="407337" lane="334904727_0" pos="10"/>
+    <detectorDefinition id="407339" lane="334904727_0" pos="10"/>
+    <detectorDefinition id="407341" lane="25029732_0" pos="10"/>
+    <detectorDefinition id="407344" lane="617235606_0" pos="10"/>
+    <detectorDefinition id="407355" lane="967501777_0" pos="10"/>
+    <detectorDefinition id="407364" lane="848748038_0" pos="10"/>
+    <detectorDefinition id="407370" lane="184867222_0" pos="10"/>
+    <detectorDefinition id="407372" lane="26230999#1_0" pos="10"/>
+    <detectorDefinition id="407373" lane="967501777_0" pos="10"/>
+    <detectorDefinition id="419057" lane="850057340_0" pos="10"/>
+    <detectorDefinition id="429577" lane="27828946_0" pos="10"/>
+    <detectorDefinition id="429584" lane="736379744#1_0" pos="10"/>
+    <detectorDefinition id="429585" lane="850057341_0" pos="10"/>
+    <detectorDefinition id="429980" lane="8964927#0_0" pos="10"/>
+    <detectorDefinition id="432136" lane="850026981_0" pos="10"/>
+    <detectorDefinition id="432161" lane="967501797-AddedOffRampEdge_0" pos="10"/>
+</detectors>
